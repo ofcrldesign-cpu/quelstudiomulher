@@ -1,0 +1,31 @@
+{
+  "name": "megamania-8bit-shmup",
+  "version": "1.0.0",
+  "description": "Jogo Shmup estilo Megamania em 8-bit com Canvas HTML5, Web Audio proçedural e suporte Touch/Mobile.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofcrldesign-cpu/quelstudiomulher.git"
+  },
+  "keywords": [
+    "game",
+    "8bit",
+    "shmup",
+    "megamania",
+    "html5",
+    "canvas",
+    "javascript",
+    "pwa",
+    "web-audio"
+  ],
+  "author": "ofcrldesign-cpu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ofcrldesign-cpu/quelstudiomulher/issues"
+  },
+  "homepage": "https://github.com/ofcrldesign-cpu/quelstudiomulher#readme"
+}
